@@ -1,0 +1,6 @@
+
+antialiased_cnns
+pytorch_msssim
+
+einops
+huggingface_hub
